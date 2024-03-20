@@ -1,0 +1,14 @@
+C:\Users\CEREN\source\repos\C# Switch Case\bin\Debug\net6.0\C# Switch Case.exe
+C:\Users\CEREN\source\repos\C# Switch Case\bin\Debug\net6.0\C# Switch Case.deps.json
+C:\Users\CEREN\source\repos\C# Switch Case\bin\Debug\net6.0\C# Switch Case.runtimeconfig.json
+C:\Users\CEREN\source\repos\C# Switch Case\bin\Debug\net6.0\C# Switch Case.dll
+C:\Users\CEREN\source\repos\C# Switch Case\bin\Debug\net6.0\C# Switch Case.pdb
+C:\Users\CEREN\source\repos\C# Switch Case\obj\Debug\net6.0\C# Switch Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CEREN\source\repos\C# Switch Case\obj\Debug\net6.0\C# Switch Case.AssemblyInfoInputs.cache
+C:\Users\CEREN\source\repos\C# Switch Case\obj\Debug\net6.0\C# Switch Case.AssemblyInfo.cs
+C:\Users\CEREN\source\repos\C# Switch Case\obj\Debug\net6.0\C# Switch Case.csproj.CoreCompileInputs.cache
+C:\Users\CEREN\source\repos\C# Switch Case\obj\Debug\net6.0\C# Switch Case.dll
+C:\Users\CEREN\source\repos\C# Switch Case\obj\Debug\net6.0\refint\C# Switch Case.dll
+C:\Users\CEREN\source\repos\C# Switch Case\obj\Debug\net6.0\C# Switch Case.pdb
+C:\Users\CEREN\source\repos\C# Switch Case\obj\Debug\net6.0\C# Switch Case.genruntimeconfig.cache
+C:\Users\CEREN\source\repos\C# Switch Case\obj\Debug\net6.0\ref\C# Switch Case.dll
