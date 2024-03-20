@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "C# IF ELSE 27.10.23/1.0.0": {
+        "runtime": {
+          "C# IF ELSE 27.10.23.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C# IF ELSE 27.10.23/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
