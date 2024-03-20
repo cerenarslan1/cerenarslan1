@@ -1,0 +1,14 @@
+C:\Users\CEREN\source\repos\SWITCH 01.1123\obj\Debug\net6.0\SWITCH 01.1123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CEREN\source\repos\SWITCH 01.1123\obj\Debug\net6.0\SWITCH 01.1123.AssemblyInfoInputs.cache
+C:\Users\CEREN\source\repos\SWITCH 01.1123\obj\Debug\net6.0\SWITCH 01.1123.AssemblyInfo.cs
+C:\Users\CEREN\source\repos\SWITCH 01.1123\obj\Debug\net6.0\SWITCH 01.1123.csproj.CoreCompileInputs.cache
+C:\Users\CEREN\source\repos\SWITCH 01.1123\bin\Debug\net6.0\SWITCH 01.1123.exe
+C:\Users\CEREN\source\repos\SWITCH 01.1123\bin\Debug\net6.0\SWITCH 01.1123.deps.json
+C:\Users\CEREN\source\repos\SWITCH 01.1123\bin\Debug\net6.0\SWITCH 01.1123.runtimeconfig.json
+C:\Users\CEREN\source\repos\SWITCH 01.1123\bin\Debug\net6.0\SWITCH 01.1123.dll
+C:\Users\CEREN\source\repos\SWITCH 01.1123\bin\Debug\net6.0\SWITCH 01.1123.pdb
+C:\Users\CEREN\source\repos\SWITCH 01.1123\obj\Debug\net6.0\SWITCH 01.1123.dll
+C:\Users\CEREN\source\repos\SWITCH 01.1123\obj\Debug\net6.0\refint\SWITCH 01.1123.dll
+C:\Users\CEREN\source\repos\SWITCH 01.1123\obj\Debug\net6.0\SWITCH 01.1123.pdb
+C:\Users\CEREN\source\repos\SWITCH 01.1123\obj\Debug\net6.0\SWITCH 01.1123.genruntimeconfig.cache
+C:\Users\CEREN\source\repos\SWITCH 01.1123\obj\Debug\net6.0\ref\SWITCH 01.1123.dll
