@@ -1,0 +1,10 @@
+C:\Users\CEREN\source\repos\Adonet_Baglanti\bin\Debug\Adonet_Baglanti.exe.config
+C:\Users\CEREN\source\repos\Adonet_Baglanti\bin\Debug\Adonet_Baglanti.exe
+C:\Users\CEREN\source\repos\Adonet_Baglanti\bin\Debug\Adonet_Baglanti.pdb
+C:\Users\CEREN\source\repos\Adonet_Baglanti\obj\Debug\Adonet_Baglanti.csproj.AssemblyReference.cache
+C:\Users\CEREN\source\repos\Adonet_Baglanti\obj\Debug\Adonet_Baglanti.Form1.resources
+C:\Users\CEREN\source\repos\Adonet_Baglanti\obj\Debug\Adonet_Baglanti.Properties.Resources.resources
+C:\Users\CEREN\source\repos\Adonet_Baglanti\obj\Debug\Adonet_Baglanti.csproj.GenerateResource.cache
+C:\Users\CEREN\source\repos\Adonet_Baglanti\obj\Debug\Adonet_Baglanti.csproj.CoreCompileInputs.cache
+C:\Users\CEREN\source\repos\Adonet_Baglanti\obj\Debug\Adonet_Baglanti.exe
+C:\Users\CEREN\source\repos\Adonet_Baglanti\obj\Debug\Adonet_Baglanti.pdb
