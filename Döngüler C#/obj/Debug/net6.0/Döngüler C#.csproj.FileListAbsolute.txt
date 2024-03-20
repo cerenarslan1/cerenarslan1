@@ -1,0 +1,14 @@
+C:\Users\CEREN\source\repos\Döngüler C#\bin\Debug\net6.0\Döngüler C#.exe
+C:\Users\CEREN\source\repos\Döngüler C#\bin\Debug\net6.0\Döngüler C#.deps.json
+C:\Users\CEREN\source\repos\Döngüler C#\bin\Debug\net6.0\Döngüler C#.runtimeconfig.json
+C:\Users\CEREN\source\repos\Döngüler C#\bin\Debug\net6.0\Döngüler C#.dll
+C:\Users\CEREN\source\repos\Döngüler C#\bin\Debug\net6.0\Döngüler C#.pdb
+C:\Users\CEREN\source\repos\Döngüler C#\obj\Debug\net6.0\Döngüler C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CEREN\source\repos\Döngüler C#\obj\Debug\net6.0\Döngüler C#.AssemblyInfoInputs.cache
+C:\Users\CEREN\source\repos\Döngüler C#\obj\Debug\net6.0\Döngüler C#.AssemblyInfo.cs
+C:\Users\CEREN\source\repos\Döngüler C#\obj\Debug\net6.0\Döngüler C#.csproj.CoreCompileInputs.cache
+C:\Users\CEREN\source\repos\Döngüler C#\obj\Debug\net6.0\Döngüler C#.dll
+C:\Users\CEREN\source\repos\Döngüler C#\obj\Debug\net6.0\refint\Döngüler C#.dll
+C:\Users\CEREN\source\repos\Döngüler C#\obj\Debug\net6.0\Döngüler C#.pdb
+C:\Users\CEREN\source\repos\Döngüler C#\obj\Debug\net6.0\Döngüler C#.genruntimeconfig.cache
+C:\Users\CEREN\source\repos\Döngüler C#\obj\Debug\net6.0\ref\Döngüler C#.dll
