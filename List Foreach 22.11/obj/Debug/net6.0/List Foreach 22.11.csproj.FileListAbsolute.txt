@@ -1,0 +1,14 @@
+C:\Users\CEREN\source\repos\List Foreach 22.11\bin\Debug\net6.0\List Foreach 22.11.exe
+C:\Users\CEREN\source\repos\List Foreach 22.11\bin\Debug\net6.0\List Foreach 22.11.deps.json
+C:\Users\CEREN\source\repos\List Foreach 22.11\bin\Debug\net6.0\List Foreach 22.11.runtimeconfig.json
+C:\Users\CEREN\source\repos\List Foreach 22.11\bin\Debug\net6.0\List Foreach 22.11.dll
+C:\Users\CEREN\source\repos\List Foreach 22.11\bin\Debug\net6.0\List Foreach 22.11.pdb
+C:\Users\CEREN\source\repos\List Foreach 22.11\obj\Debug\net6.0\List Foreach 22.11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CEREN\source\repos\List Foreach 22.11\obj\Debug\net6.0\List Foreach 22.11.AssemblyInfoInputs.cache
+C:\Users\CEREN\source\repos\List Foreach 22.11\obj\Debug\net6.0\List Foreach 22.11.AssemblyInfo.cs
+C:\Users\CEREN\source\repos\List Foreach 22.11\obj\Debug\net6.0\List Foreach 22.11.csproj.CoreCompileInputs.cache
+C:\Users\CEREN\source\repos\List Foreach 22.11\obj\Debug\net6.0\List Foreach 22.11.dll
+C:\Users\CEREN\source\repos\List Foreach 22.11\obj\Debug\net6.0\refint\List Foreach 22.11.dll
+C:\Users\CEREN\source\repos\List Foreach 22.11\obj\Debug\net6.0\List Foreach 22.11.pdb
+C:\Users\CEREN\source\repos\List Foreach 22.11\obj\Debug\net6.0\List Foreach 22.11.genruntimeconfig.cache
+C:\Users\CEREN\source\repos\List Foreach 22.11\obj\Debug\net6.0\ref\List Foreach 22.11.dll
