@@ -1,0 +1,14 @@
+C:\Users\CEREN\source\repos\metotlar kurs 2\bin\Debug\net6.0\metotlar kurs 2.exe
+C:\Users\CEREN\source\repos\metotlar kurs 2\bin\Debug\net6.0\metotlar kurs 2.deps.json
+C:\Users\CEREN\source\repos\metotlar kurs 2\bin\Debug\net6.0\metotlar kurs 2.runtimeconfig.json
+C:\Users\CEREN\source\repos\metotlar kurs 2\bin\Debug\net6.0\metotlar kurs 2.dll
+C:\Users\CEREN\source\repos\metotlar kurs 2\bin\Debug\net6.0\metotlar kurs 2.pdb
+C:\Users\CEREN\source\repos\metotlar kurs 2\obj\Debug\net6.0\metotlar kurs 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CEREN\source\repos\metotlar kurs 2\obj\Debug\net6.0\metotlar kurs 2.AssemblyInfoInputs.cache
+C:\Users\CEREN\source\repos\metotlar kurs 2\obj\Debug\net6.0\metotlar kurs 2.AssemblyInfo.cs
+C:\Users\CEREN\source\repos\metotlar kurs 2\obj\Debug\net6.0\metotlar kurs 2.csproj.CoreCompileInputs.cache
+C:\Users\CEREN\source\repos\metotlar kurs 2\obj\Debug\net6.0\metotlar kurs 2.dll
+C:\Users\CEREN\source\repos\metotlar kurs 2\obj\Debug\net6.0\refint\metotlar kurs 2.dll
+C:\Users\CEREN\source\repos\metotlar kurs 2\obj\Debug\net6.0\metotlar kurs 2.pdb
+C:\Users\CEREN\source\repos\metotlar kurs 2\obj\Debug\net6.0\metotlar kurs 2.genruntimeconfig.cache
+C:\Users\CEREN\source\repos\metotlar kurs 2\obj\Debug\net6.0\ref\metotlar kurs 2.dll
