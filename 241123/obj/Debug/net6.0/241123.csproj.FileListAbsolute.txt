@@ -1,0 +1,14 @@
+C:\Users\CEREN\source\repos\241123\bin\Debug\net6.0\241123.exe
+C:\Users\CEREN\source\repos\241123\bin\Debug\net6.0\241123.deps.json
+C:\Users\CEREN\source\repos\241123\bin\Debug\net6.0\241123.runtimeconfig.json
+C:\Users\CEREN\source\repos\241123\bin\Debug\net6.0\241123.dll
+C:\Users\CEREN\source\repos\241123\bin\Debug\net6.0\241123.pdb
+C:\Users\CEREN\source\repos\241123\obj\Debug\net6.0\241123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CEREN\source\repos\241123\obj\Debug\net6.0\241123.AssemblyInfoInputs.cache
+C:\Users\CEREN\source\repos\241123\obj\Debug\net6.0\241123.AssemblyInfo.cs
+C:\Users\CEREN\source\repos\241123\obj\Debug\net6.0\241123.csproj.CoreCompileInputs.cache
+C:\Users\CEREN\source\repos\241123\obj\Debug\net6.0\241123.dll
+C:\Users\CEREN\source\repos\241123\obj\Debug\net6.0\refint\241123.dll
+C:\Users\CEREN\source\repos\241123\obj\Debug\net6.0\241123.pdb
+C:\Users\CEREN\source\repos\241123\obj\Debug\net6.0\241123.genruntimeconfig.cache
+C:\Users\CEREN\source\repos\241123\obj\Debug\net6.0\ref\241123.dll
