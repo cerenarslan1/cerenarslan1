@@ -1,0 +1,14 @@
+C:\Users\CEREN\source\repos\EN BASTAN TEKRAR C#\bin\Debug\net6.0\EN BASTAN TEKRAR C#.exe
+C:\Users\CEREN\source\repos\EN BASTAN TEKRAR C#\bin\Debug\net6.0\EN BASTAN TEKRAR C#.deps.json
+C:\Users\CEREN\source\repos\EN BASTAN TEKRAR C#\bin\Debug\net6.0\EN BASTAN TEKRAR C#.runtimeconfig.json
+C:\Users\CEREN\source\repos\EN BASTAN TEKRAR C#\bin\Debug\net6.0\EN BASTAN TEKRAR C#.dll
+C:\Users\CEREN\source\repos\EN BASTAN TEKRAR C#\bin\Debug\net6.0\EN BASTAN TEKRAR C#.pdb
+C:\Users\CEREN\source\repos\EN BASTAN TEKRAR C#\obj\Debug\net6.0\EN BASTAN TEKRAR C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CEREN\source\repos\EN BASTAN TEKRAR C#\obj\Debug\net6.0\EN BASTAN TEKRAR C#.AssemblyInfoInputs.cache
+C:\Users\CEREN\source\repos\EN BASTAN TEKRAR C#\obj\Debug\net6.0\EN BASTAN TEKRAR C#.AssemblyInfo.cs
+C:\Users\CEREN\source\repos\EN BASTAN TEKRAR C#\obj\Debug\net6.0\EN BASTAN TEKRAR C#.csproj.CoreCompileInputs.cache
+C:\Users\CEREN\source\repos\EN BASTAN TEKRAR C#\obj\Debug\net6.0\EN BASTAN TEKRAR C#.dll
+C:\Users\CEREN\source\repos\EN BASTAN TEKRAR C#\obj\Debug\net6.0\refint\EN BASTAN TEKRAR C#.dll
+C:\Users\CEREN\source\repos\EN BASTAN TEKRAR C#\obj\Debug\net6.0\EN BASTAN TEKRAR C#.pdb
+C:\Users\CEREN\source\repos\EN BASTAN TEKRAR C#\obj\Debug\net6.0\EN BASTAN TEKRAR C#.genruntimeconfig.cache
+C:\Users\CEREN\source\repos\EN BASTAN TEKRAR C#\obj\Debug\net6.0\ref\EN BASTAN TEKRAR C#.dll
