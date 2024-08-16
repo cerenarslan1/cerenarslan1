@@ -1,0 +1,243 @@
+﻿@model List<CAproject.Models.Entities.Product>
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sepetim</title>
+    <link rel="stylesheet" href="~/css/styles.css">
+</head>
+<style>
+    body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+header {
+    background-color: #fff;
+    padding: 20px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.notification {
+    background-color: #eeb5df; /* Light red background */
+    color: #000000; /* Dark red text */
+    padding: 15px; /* Padding around the text */
+    border: 1px solid #f5c6cb; /* Border matching the background color */
+    border-radius: 5px; /* Rounded corners */
+    margin: 20px 0; /* Vertical margin */
+    font-family: 'Times New Roman', Times, serif; /* Font family */
+}
+
+/* Paragraph inside the notification */
+.notification p {
+    margin: 0; /* No margin */
+    font-size: 16px; /* Font size */
+}
+
+/* Link inside the notification */
+.notification a {
+    color: #d61b5f; /* Dark blue color */
+    text-decoration: underline; /* Underline text */
+}
+
+.notification a:hover {
+    color:  #d61b5f;; /* Darker blue on hover */
+    text-decoration: none; /* No underline on hover */
+}
+.cart {
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.confirm-button {
+   
+    color: #ffffff; /* Buton üzerindeki yazı rengi */
+    padding: 10px 20px; /* Butonun iç boşlukları */
+    border: none; /* Kenarlık olmaması */
+    border-radius: 5px; /* Yuvarlatılmış köşeler */
+    cursor: pointer; /* Fare imlecini değiştirme */
+    font-size: 21px; /* Yazı boyutu */
+}
+
+.confirm-button:hover {
+    background-color: #000000; /* Hover durumundaki yeni renk */
+    color: #ffffff; /* Hover durumunda yazı rengi */
+}
+
+.product {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+.product-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.product-header input {
+    margin-right: 10px;
+}
+
+.product-header .rating {
+    background-color: #9f4289;
+    color: white;
+    padding: 2px 5px;
+    border-radius: 3px;
+    margin-left: 10px;
+}
+
+.product-header .free-shipping {
+    background-color:#ddd;
+    color: #9f4289;
+    padding: 5px 10px;
+    border-radius: 3px;
+}
+
+.product-details {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.product-details img {
+    width: 100px;
+    height: auto;
+    margin-right: 20px;
+}
+
+.product-info p {
+    margin: 5px 0;
+}
+
+.product-actions {
+    display: flex;
+    align-items: center;
+}
+
+.product-actions button {
+    background-color:#000000;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin: 0 5px;
+}
+
+.product-actions .delete {
+    background-color: #000000;
+}
+
+.product-actions .price {
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+.summary {
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.summary h2 {
+    margin-bottom: 20px;
+}
+
+.summary p {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+}
+
+.summary .total {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.summary .apply-coupon,
+.summary .checkout {
+    background-color:  #000000;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.summary .apply-coupon {
+    background-color: #000000;
+    margin-bottom: 10px;
+}
+
+
+<body>
+    <div class="container">
+        <header>
+            <h1>Sepetim</h1>
+        </header>
+        <div class="notification">
+            <p>Alışverişini daha hızlı tamamlamak için <a href="GirisYap.html">Giriş Yap</a></p>
+        </div>
+
+        @if (Model != null && Model.Count > 0)
+        {
+            <div class="cart">
+                @foreach (var item in Model)
+                {
+                    <div class="product">
+                        <div class="product-header">
+                            <input type="checkbox" checked>
+                            <span class="free-shipping">Kargo Bedava!</span>
+                        </div>
+                        <div class="product-details">
+                            <img src="@item.Image" alt="Ürün">
+                            <div class="product-info">
+                                <p>@item.Ad</p>
+                            </div>
+                            <div class="product-actions">
+                                <button>-</button>
+                                <input type="number" value="1" min="1">
+                                <button>+</button>
+                                <button class="delete">Sil</button>
+                                <span class="price">@item.fiyat</span>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+
+            <div class="summary">
+                <h2>Sipariş Özeti</h2>
+                @{
+                    decimal total = Model.Sum(item => item.fiyat);
+                }
+                <p>Ürünün Toplamı <span>@total TL</span></p>
+                <p class="total">Toplam <span>@total TL</span></p>
+                <button class="checkout">Sepeti Onayla</button>
+            </div>
+        }
+        else
+        {
+            <p>Sepetinizde ürün bulunmamaktadır.</p>
+        }
+    </div>
+</body>
+</html>

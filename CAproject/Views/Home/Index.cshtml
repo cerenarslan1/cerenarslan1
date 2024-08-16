@@ -1,0 +1,155 @@
+﻿@model List<CAproject.Models.Entities.Product>
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CA Takı ve Aksesuar</title>
+
+</head>
+<body>
+
+
+
+    <div id="carouselExample" class="carousel slide">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="~/Images/carousel/carousel1.jpg" class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item">
+                <img src="~/Images/carousel/carousel2.jpg" class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item">
+                <img src="~/Images/carousel/carousel3.jpg" d-block w-100" alt="...">
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    <main>
+        <section class="hero">
+          @*   <div class="container">
+                <h1> </h1>
+                <button type="button" class="btn btn-outline-dark">Alışverişe Başla</button>
+                    *@
+
+
+
+                @* <div class="container text-center mt-5">
+                    <a href="urunler.html">
+                        <button type="button" class="btn btn-outline-dark">Alışverişe Başla</button>
+                    </a>
+
+ *@
+
+
+            </div>
+        </section>
+
+        <section id="products" class="products">
+            <div class="slideshow-container">
+                <section class="products">
+                    <div class="container">
+                        <h1>
+                            <h2>Popüler Ürünler</h2>
+                        </h1>
+
+
+                        <div class="container mt-5">
+                            <div class="row">
+
+                                @foreach (var item in Model)
+                                {
+                                    @if (item.ModelAd == "x")
+                                    {
+                                        string adres = "";
+                                        if (item.Category == "Kolye")
+                                        {
+                                            adres = "Product/ListeleKolye";
+                                        }
+                                        else if (item.Category == "Yüzük")
+                                        {
+                                            adres = "Product/ListeleYuzuk";
+                                        }
+                                        else  if (item.Category=="Bileklik")
+                                        {
+                                            adres = "Product/ListeleBileklik";
+                                        }
+                                        else if (item.Category == "Küpe")
+                                        {
+                                            adres = "Product/ListeleKupe";
+                                        }
+
+
+                                        <div class="col-md-4">
+                                            <div class="card" style="width: 18rem;">
+                                                <img class="card-img-top" width="25%" src="~/@item.Image" alt="Card image cap">
+                                                <div class="card-body">
+                                                    <h5 class="">@item.Ad</h5>
+                                                    <p class="card-text"></p>
+                                                    <a href="@adres">
+                                                        <button type="button" class="btn btn-outline-dark">Buraya Tıkla</button>
+                                                    </a> 
+                                                </div>
+
+                                            </div>
+                                            <br>
+                                            <br>
+                                            <br>
+                                            <br>
+                                            <br>
+                                        </div>
+
+                                    }
+
+                                }
+
+
+                            </div>
+                        </div>
+                        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+                        <div class="row">
+
+                            <footer>
+
+                                <div class="footer-container">
+
+                                    <div class="footer-section links">
+                                        <h3>Hızlı Bağlantılar</h3>
+                                        <ul>
+                                            <li><a href="~/Home/Index">Anasayfa</a></li>
+                                            <li><a href="~/User/GirisYap">Giriş Yap</a></li>
+                                            <li><a href="~/User/SepetEkle">Sepetim</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="footer-section contact">
+                                        <h3>İletişim</h3>
+                                        <p>Adres:İstanbul</p>
+                                        <p>Telefon: +90 5342119966</p>
+                                        <p>Email: cerenarrsllan@gmail.com </p>
+                                    </div>
+                                    <div class="footer-section social">
+                                        <h3>Sosyal Medya</h3>
+                                        <div class="social-icons">
+                                            <a href="#"><img src="facebook-icon.png" alt="Facebook"></a>
+                                            <a href="#"><img src="twitter-icon.png" alt="Twitter"></a>
+                                            <a href="#"><img src="instagram-icon.png" alt="Instagram"></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="footer-bottom">
+                                    <p>&copy; 2024 | Tüm Hakları Saklıdır</p>
+                                </div>
+                            </footer>
+                        </div>
+</body>
+</html>
